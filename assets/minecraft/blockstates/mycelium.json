@@ -1,0 +1,264 @@
+{
+    "variants": {
+        "snowy=false": [
+            {
+                "model": "mycelium"
+            },
+            {
+                "model": "mycelium/block/0"
+            },
+            {
+                "model": "mycelium/block/1"
+            },
+            {
+                "model": "mycelium/block/2"
+            },
+            {
+                "model": "mycelium/block/3"
+            },
+            {
+                "model": "mycelium/block/4"
+            },
+            {
+                "model": "mycelium/block/5"
+            },
+            {
+                "model": "mycelium/block/6"
+            },
+            {
+                "model": "mycelium/block/7"
+            },
+            {
+                "model": "mycelium/block/8"
+            },
+            {
+                "model": "mycelium/block/9"
+            },
+            {
+                "model": "mycelium/block/10"
+            },
+            {
+                "model": "mycelium/block/11"
+            },
+            {
+                "model": "mycelium/block/12"
+            },
+            {
+                "model": "mycelium/block/13"
+            },
+            {
+                "model": "mycelium/block/14"
+            },
+            {
+                "model": "mycelium/block/15"
+            },
+            {
+                "model": "mycelium",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/0",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/1",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/2",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/3",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/4",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/5",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/6",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/7",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/8",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/9",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/10",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/11",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/12",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/13",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/14",
+                "y": 90
+            },
+            {
+                "model": "mycelium/block/15",
+                "y": 90
+            },
+            {
+                "model": "mycelium",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/0",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/1",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/2",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/3",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/4",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/5",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/6",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/7",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/8",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/9",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/10",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/11",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/12",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/13",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/14",
+                "y": 180
+            },
+            {
+                "model": "mycelium/block/15",
+                "y": 180
+            },
+            {
+                "model": "mycelium",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/0",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/1",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/2",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/3",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/4",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/5",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/6",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/7",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/8",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/9",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/10",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/11",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/12",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/13",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/14",
+                "y": 270
+            },
+            {
+                "model": "mycelium/block/15",
+                "y": 270
+            }
+        ],
+        "snowy=true": {
+            "model": "grass_snowed"
+        }
+    }
+}

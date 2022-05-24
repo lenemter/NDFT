@@ -1,0 +1,125 @@
+{
+    "variants": {
+        "normal": [
+            {
+                "model": "andesite"
+            },
+            {
+                "model": "andesite/block/0"
+            },
+            {
+                "model": "andesite/block/1"
+            },
+            {
+                "model": "andesite/block/2"
+            },
+            {
+                "model": "andesite/block/3"
+            },
+            {
+                "model": "andesite/block/4"
+            },
+            {
+                "model": "andesite/block/5"
+            },
+            {
+                "model": "andesite/block/6"
+            },
+            {
+                "model": "andesite/block/7"
+            },
+            {
+                "model": "andesite/block/8"
+            },
+            {
+                "model": "andesite/block/9"
+            },
+            {
+                "model": "andesite/block/10"
+            },
+            {
+                "model": "andesite/block/11"
+            },
+            {
+                "model": "andesite/block/12"
+            },
+            {
+                "model": "andesite/block/13"
+            },
+            {
+                "model": "andesite/block/14"
+            },
+            {
+                "model": "andesite/block/15"
+            },
+            {
+                "model": "andesite",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/0",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/1",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/2",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/3",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/4",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/5",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/6",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/7",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/8",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/9",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/10",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/11",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/12",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/13",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/14",
+                "y": 180
+            },
+            {
+                "model": "andesite/block/15",
+                "y": 180
+            }
+        ]
+    }
+}

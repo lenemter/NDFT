@@ -1,0 +1,125 @@
+{
+    "variants": {
+        "normal": [
+            {
+                "model": "diorite"
+            },
+            {
+                "model": "diorite/block/0"
+            },
+            {
+                "model": "diorite/block/1"
+            },
+            {
+                "model": "diorite/block/2"
+            },
+            {
+                "model": "diorite/block/3"
+            },
+            {
+                "model": "diorite/block/4"
+            },
+            {
+                "model": "diorite/block/5"
+            },
+            {
+                "model": "diorite/block/6"
+            },
+            {
+                "model": "diorite/block/7"
+            },
+            {
+                "model": "diorite/block/8"
+            },
+            {
+                "model": "diorite/block/9"
+            },
+            {
+                "model": "diorite/block/10"
+            },
+            {
+                "model": "diorite/block/11"
+            },
+            {
+                "model": "diorite/block/12"
+            },
+            {
+                "model": "diorite/block/13"
+            },
+            {
+                "model": "diorite/block/14"
+            },
+            {
+                "model": "diorite/block/15"
+            },
+            {
+                "model": "diorite",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/0",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/1",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/2",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/3",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/4",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/5",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/6",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/7",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/8",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/9",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/10",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/11",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/12",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/13",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/14",
+                "y": 180
+            },
+            {
+                "model": "diorite/block/15",
+                "y": 180
+            }
+        ]
+    }
+}

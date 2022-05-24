@@ -1,0 +1,129 @@
+{
+    "variants": {
+        "snowy=false": [
+            {
+                "model": "grass_normal"
+            },
+            {
+                "model": "grass/0"
+            },
+            {
+                "model": "grass/1"
+            },
+            {
+                "model": "grass/2"
+            },
+            {
+                "model": "grass/3"
+            },
+            {
+                "model": "grass/4"
+            },
+            {
+                "model": "grass/5"
+            },
+            {
+                "model": "grass/6"
+            },
+            {
+                "model": "grass_normal",
+                "y": 90
+            },
+            {
+                "model": "grass/0",
+                "y": 90
+            },
+            {
+                "model": "grass/1",
+                "y": 90
+            },
+            {
+                "model": "grass/2",
+                "y": 90
+            },
+            {
+                "model": "grass/3",
+                "y": 90
+            },
+            {
+                "model": "grass/4",
+                "y": 90
+            },
+            {
+                "model": "grass/5",
+                "y": 90
+            },
+            {
+                "model": "grass/6",
+                "y": 90
+            },
+            {
+                "model": "grass_normal",
+                "y": 180
+            },
+            {
+                "model": "grass/0",
+                "y": 180
+            },
+            {
+                "model": "grass/1",
+                "y": 180
+            },
+            {
+                "model": "grass/2",
+                "y": 180
+            },
+            {
+                "model": "grass/3",
+                "y": 180
+            },
+            {
+                "model": "grass/4",
+                "y": 180
+            },
+            {
+                "model": "grass/5",
+                "y": 180
+            },
+            {
+                "model": "grass/6",
+                "y": 180
+            },
+            {
+                "model": "grass_normal",
+                "y": 270
+            },
+            {
+                "model": "grass/0",
+                "y": 270
+            },
+            {
+                "model": "grass/1",
+                "y": 270
+            },
+            {
+                "model": "grass/2",
+                "y": 270
+            },
+            {
+                "model": "grass/3",
+                "y": 270
+            },
+            {
+                "model": "grass/4",
+                "y": 270
+            },
+            {
+                "model": "grass/5",
+                "y": 270
+            },
+            {
+                "model": "grass/6",
+                "y": 270
+            }
+        ],
+        "snowy=true": {
+            "model": "grass_snowed"
+        }
+    }
+}

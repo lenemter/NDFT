@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "normal": [
+            {
+                "model": "coarse_dirt"
+            },
+            {
+                "model": "coarse_dirt",
+                "y": 90
+            },
+            {
+                "model": "coarse_dirt",
+                "y": 180
+            },
+            {
+                "model": "coarse_dirt",
+                "y": 270
+            }
+        ]
+    }
+}
