@@ -1,0 +1,8 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "top": "variated/dark_oak_planks/4",
+    "side": "variated/dark_oak_planks/4",
+    "bottom": "variated/dark_oak_planks/4"
+  }
+}

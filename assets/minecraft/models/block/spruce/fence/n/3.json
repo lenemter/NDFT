@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_n",
+    "textures": {
+        "texture": "variated/spruce_planks/3"
+    }
+}
