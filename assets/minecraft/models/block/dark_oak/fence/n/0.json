@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_n",
+    "textures": {
+        "texture": "variated/dark_oak_planks/0"
+    }
+}
