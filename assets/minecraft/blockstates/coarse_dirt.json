@@ -15,6 +15,21 @@
             {
                 "model": "coarse_dirt",
                 "y": 270
+            },
+            {
+                "model": "coarse_dirt_mirrored"
+            },
+            {
+                "model": "coarse_dirt_mirrored",
+                "y": 90
+            },
+            {
+                "model": "coarse_dirt_mirrored",
+                "y": 180
+            },
+            {
+                "model": "coarse_dirt_mirrored",
+                "y": 270
             }
         ]
     }

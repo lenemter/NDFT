@@ -5,187 +5,187 @@
                 "model": "gravel"
             },
             {
-                "model": "gravel/block/0"
+                "model": "gravel/normal/0"
             },
             {
-                "model": "gravel/block/1"
+                "model": "gravel/normal/1"
             },
             {
-                "model": "gravel/block/2"
+                "model": "gravel/normal/2"
             },
             {
-                "model": "gravel/block/3"
+                "model": "gravel/normal/3"
             },
             {
-                "model": "gravel/block/4"
+                "model": "gravel/normal/4"
             },
             {
-                "model": "gravel/block/5"
+                "model": "gravel/normal/5"
             },
             {
-                "model": "gravel/block/6"
+                "model": "gravel/normal/6"
             },
             {
-                "model": "gravel/block/7"
+                "model": "gravel/normal/7"
             },
             {
-                "model": "gravel/block/8"
+                "model": "gravel/normal/8"
             },
             {
-                "model": "gravel/block/9"
+                "model": "gravel/normal/9"
             },
             {
-                "model": "gravel/block/10"
+                "model": "gravel/normal/10"
             },
             {
-                "model": "gravel/block/11"
+                "model": "gravel/normal/11"
             },
             {
-                "model": "gravel/block/12"
+                "model": "gravel/normal/12"
             },
             {
-                "model": "gravel/block/13"
+                "model": "gravel/normal/13"
             },
             {
-                "model": "gravel/block/14"
+                "model": "gravel/normal/14"
             },
             {
-                "model": "gravel/block/15"
-            },
-            {
-                "model": "gravel",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/0",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/1",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/2",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/3",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/4",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/5",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/6",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/7",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/8",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/9",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/10",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/11",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/12",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/13",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/14",
-                "y": 90
-            },
-            {
-                "model": "gravel/block/15",
-                "y": 90
+                "model": "gravel/normal/15"
             },
             {
                 "model": "gravel",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/0",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/1",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/2",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/3",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/4",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/5",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/6",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/7",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/8",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/9",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/10",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/11",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/12",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/13",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/14",
+                "y": 90
+            },
+            {
+                "model": "gravel/normal/15",
+                "y": 90
+            },
+            {
+                "model": "gravel",
                 "y": 180
             },
             {
-                "model": "gravel/block/0",
+                "model": "gravel/normal/0",
                 "y": 180
             },
             {
-                "model": "gravel/block/1",
+                "model": "gravel/normal/1",
                 "y": 180
             },
             {
-                "model": "gravel/block/2",
+                "model": "gravel/normal/2",
                 "y": 180
             },
             {
-                "model": "gravel/block/3",
+                "model": "gravel/normal/3",
                 "y": 180
             },
             {
-                "model": "gravel/block/4",
+                "model": "gravel/normal/4",
                 "y": 180
             },
             {
-                "model": "gravel/block/5",
+                "model": "gravel/normal/5",
                 "y": 180
             },
             {
-                "model": "gravel/block/6",
+                "model": "gravel/normal/6",
                 "y": 180
             },
             {
-                "model": "gravel/block/7",
+                "model": "gravel/normal/7",
                 "y": 180
             },
             {
-                "model": "gravel/block/8",
+                "model": "gravel/normal/8",
                 "y": 180
             },
             {
-                "model": "gravel/block/9",
+                "model": "gravel/normal/9",
                 "y": 180
             },
             {
-                "model": "gravel/block/10",
+                "model": "gravel/normal/10",
                 "y": 180
             },
             {
-                "model": "gravel/block/11",
+                "model": "gravel/normal/11",
                 "y": 180
             },
             {
-                "model": "gravel/block/12",
+                "model": "gravel/normal/12",
                 "y": 180
             },
             {
-                "model": "gravel/block/13",
+                "model": "gravel/normal/13",
                 "y": 180
             },
             {
-                "model": "gravel/block/14",
+                "model": "gravel/normal/14",
                 "y": 180
             },
             {
-                "model": "gravel/block/15",
+                "model": "gravel/normal/15",
                 "y": 180
             },
             {
@@ -193,67 +193,322 @@
                 "y": 270
             },
             {
-                "model": "gravel/block/0",
+                "model": "gravel/normal/0",
                 "y": 270
             },
             {
-                "model": "gravel/block/1",
+                "model": "gravel/normal/1",
                 "y": 270
             },
             {
-                "model": "gravel/block/2",
+                "model": "gravel/normal/2",
                 "y": 270
             },
             {
-                "model": "gravel/block/3",
+                "model": "gravel/normal/3",
                 "y": 270
             },
             {
-                "model": "gravel/block/4",
+                "model": "gravel/normal/4",
                 "y": 270
             },
             {
-                "model": "gravel/block/5",
+                "model": "gravel/normal/5",
                 "y": 270
             },
             {
-                "model": "gravel/block/6",
+                "model": "gravel/normal/6",
                 "y": 270
             },
             {
-                "model": "gravel/block/7",
+                "model": "gravel/normal/7",
                 "y": 270
             },
             {
-                "model": "gravel/block/8",
+                "model": "gravel/normal/8",
                 "y": 270
             },
             {
-                "model": "gravel/block/9",
+                "model": "gravel/normal/9",
                 "y": 270
             },
             {
-                "model": "gravel/block/10",
+                "model": "gravel/normal/10",
                 "y": 270
             },
             {
-                "model": "gravel/block/11",
+                "model": "gravel/normal/11",
                 "y": 270
             },
             {
-                "model": "gravel/block/12",
+                "model": "gravel/normal/12",
                 "y": 270
             },
             {
-                "model": "gravel/block/13",
+                "model": "gravel/normal/13",
                 "y": 270
             },
             {
-                "model": "gravel/block/14",
+                "model": "gravel/normal/14",
                 "y": 270
             },
             {
-                "model": "gravel/block/15",
+                "model": "gravel/normal/15",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/default"
+            },
+            {
+                "model": "gravel/mirrored/0"
+            },
+            {
+                "model": "gravel/mirrored/1"
+            },
+            {
+                "model": "gravel/mirrored/2"
+            },
+            {
+                "model": "gravel/mirrored/3"
+            },
+            {
+                "model": "gravel/mirrored/4"
+            },
+            {
+                "model": "gravel/mirrored/5"
+            },
+            {
+                "model": "gravel/mirrored/6"
+            },
+            {
+                "model": "gravel/mirrored/7"
+            },
+            {
+                "model": "gravel/mirrored/8"
+            },
+            {
+                "model": "gravel/mirrored/9"
+            },
+            {
+                "model": "gravel/mirrored/10"
+            },
+            {
+                "model": "gravel/mirrored/11"
+            },
+            {
+                "model": "gravel/mirrored/12"
+            },
+            {
+                "model": "gravel/mirrored/13"
+            },
+            {
+                "model": "gravel/mirrored/14"
+            },
+            {
+                "model": "gravel/mirrored/15"
+            },
+            {
+                "model": "gravel/mirrored/default",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/0",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/1",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/2",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/3",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/4",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/5",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/6",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/7",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/8",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/9",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/10",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/11",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/12",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/13",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/14",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/15",
+                "y": 90
+            },
+            {
+                "model": "gravel/mirrored/default",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/0",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/1",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/2",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/3",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/4",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/5",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/6",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/7",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/8",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/9",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/10",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/11",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/12",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/13",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/14",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/15",
+                "y": 180
+            },
+            {
+                "model": "gravel/mirrored/default",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/0",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/1",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/2",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/3",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/4",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/5",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/6",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/7",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/8",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/9",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/10",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/11",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/12",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/13",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/14",
+                "y": 270
+            },
+            {
+                "model": "gravel/mirrored/15",
                 "y": 270
             }
         ]
