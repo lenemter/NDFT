@@ -1,8 +1,8 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "mcpatcher/cit/uielements/scg/blank_texture",
-        "layer1": "mcpatcher/cit/uielements/scg/blank_texture",
+        "layer0": "mcpatcher/cit/sb_ui/scg/blank_texture",
+        "layer1": "mcpatcher/cit/sb_ui/scg/blank_texture",
         "layer2": "./the_sea_emperor"
     }
 }
