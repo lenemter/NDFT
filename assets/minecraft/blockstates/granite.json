@@ -5,187 +5,187 @@
                 "model": "granite"
             },
             {
-                "model": "granite/block/0"
+                "model": "granite/normal/0"
             },
             {
-                "model": "granite/block/1"
+                "model": "granite/normal/1"
             },
             {
-                "model": "granite/block/2"
+                "model": "granite/normal/2"
             },
             {
-                "model": "granite/block/3"
+                "model": "granite/normal/3"
             },
             {
-                "model": "granite/block/4"
+                "model": "granite/normal/4"
             },
             {
-                "model": "granite/block/5"
+                "model": "granite/normal/5"
             },
             {
-                "model": "granite/block/6"
+                "model": "granite/normal/6"
             },
             {
-                "model": "granite/block/7"
+                "model": "granite/normal/7"
             },
             {
-                "model": "granite/block/8"
+                "model": "granite/normal/8"
             },
             {
-                "model": "granite/block/9"
+                "model": "granite/normal/9"
             },
             {
-                "model": "granite/block/10"
+                "model": "granite/normal/10"
             },
             {
-                "model": "granite/block/11"
+                "model": "granite/normal/11"
             },
             {
-                "model": "granite/block/12"
+                "model": "granite/normal/12"
             },
             {
-                "model": "granite/block/13"
+                "model": "granite/normal/13"
             },
             {
-                "model": "granite/block/14"
+                "model": "granite/normal/14"
             },
             {
-                "model": "granite/block/15"
-            },
-            {
-                "model": "granite",
-                "y": 90
-            },
-            {
-                "model": "granite/block/0",
-                "y": 90
-            },
-            {
-                "model": "granite/block/1",
-                "y": 90
-            },
-            {
-                "model": "granite/block/2",
-                "y": 90
-            },
-            {
-                "model": "granite/block/3",
-                "y": 90
-            },
-            {
-                "model": "granite/block/4",
-                "y": 90
-            },
-            {
-                "model": "granite/block/5",
-                "y": 90
-            },
-            {
-                "model": "granite/block/6",
-                "y": 90
-            },
-            {
-                "model": "granite/block/7",
-                "y": 90
-            },
-            {
-                "model": "granite/block/8",
-                "y": 90
-            },
-            {
-                "model": "granite/block/9",
-                "y": 90
-            },
-            {
-                "model": "granite/block/10",
-                "y": 90
-            },
-            {
-                "model": "granite/block/11",
-                "y": 90
-            },
-            {
-                "model": "granite/block/12",
-                "y": 90
-            },
-            {
-                "model": "granite/block/13",
-                "y": 90
-            },
-            {
-                "model": "granite/block/14",
-                "y": 90
-            },
-            {
-                "model": "granite/block/15",
-                "y": 90
+                "model": "granite/normal/15"
             },
             {
                 "model": "granite",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/0",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/1",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/2",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/3",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/4",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/5",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/6",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/7",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/8",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/9",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/10",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/11",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/12",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/13",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/14",
+                "y": 90
+            },
+            {
+                "model": "granite/normal/15",
+                "y": 90
+            },
+            {
+                "model": "granite",
                 "y": 180
             },
             {
-                "model": "granite/block/0",
+                "model": "granite/normal/0",
                 "y": 180
             },
             {
-                "model": "granite/block/1",
+                "model": "granite/normal/1",
                 "y": 180
             },
             {
-                "model": "granite/block/2",
+                "model": "granite/normal/2",
                 "y": 180
             },
             {
-                "model": "granite/block/3",
+                "model": "granite/normal/3",
                 "y": 180
             },
             {
-                "model": "granite/block/4",
+                "model": "granite/normal/4",
                 "y": 180
             },
             {
-                "model": "granite/block/5",
+                "model": "granite/normal/5",
                 "y": 180
             },
             {
-                "model": "granite/block/6",
+                "model": "granite/normal/6",
                 "y": 180
             },
             {
-                "model": "granite/block/7",
+                "model": "granite/normal/7",
                 "y": 180
             },
             {
-                "model": "granite/block/8",
+                "model": "granite/normal/8",
                 "y": 180
             },
             {
-                "model": "granite/block/9",
+                "model": "granite/normal/9",
                 "y": 180
             },
             {
-                "model": "granite/block/10",
+                "model": "granite/normal/10",
                 "y": 180
             },
             {
-                "model": "granite/block/11",
+                "model": "granite/normal/11",
                 "y": 180
             },
             {
-                "model": "granite/block/12",
+                "model": "granite/normal/12",
                 "y": 180
             },
             {
-                "model": "granite/block/13",
+                "model": "granite/normal/13",
                 "y": 180
             },
             {
-                "model": "granite/block/14",
+                "model": "granite/normal/14",
                 "y": 180
             },
             {
-                "model": "granite/block/15",
+                "model": "granite/normal/15",
                 "y": 180
             },
             {
@@ -193,67 +193,322 @@
                 "y": 270
             },
             {
-                "model": "granite/block/0",
+                "model": "granite/normal/0",
                 "y": 270
             },
             {
-                "model": "granite/block/1",
+                "model": "granite/normal/1",
                 "y": 270
             },
             {
-                "model": "granite/block/2",
+                "model": "granite/normal/2",
                 "y": 270
             },
             {
-                "model": "granite/block/3",
+                "model": "granite/normal/3",
                 "y": 270
             },
             {
-                "model": "granite/block/4",
+                "model": "granite/normal/4",
                 "y": 270
             },
             {
-                "model": "granite/block/5",
+                "model": "granite/normal/5",
                 "y": 270
             },
             {
-                "model": "granite/block/6",
+                "model": "granite/normal/6",
                 "y": 270
             },
             {
-                "model": "granite/block/7",
+                "model": "granite/normal/7",
                 "y": 270
             },
             {
-                "model": "granite/block/8",
+                "model": "granite/normal/8",
                 "y": 270
             },
             {
-                "model": "granite/block/9",
+                "model": "granite/normal/9",
                 "y": 270
             },
             {
-                "model": "granite/block/10",
+                "model": "granite/normal/10",
                 "y": 270
             },
             {
-                "model": "granite/block/11",
+                "model": "granite/normal/11",
                 "y": 270
             },
             {
-                "model": "granite/block/12",
+                "model": "granite/normal/12",
                 "y": 270
             },
             {
-                "model": "granite/block/13",
+                "model": "granite/normal/13",
                 "y": 270
             },
             {
-                "model": "granite/block/14",
+                "model": "granite/normal/14",
                 "y": 270
             },
             {
-                "model": "granite/block/15",
+                "model": "granite/normal/15",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/default"
+            },
+            {
+                "model": "granite/mirrored/0"
+            },
+            {
+                "model": "granite/mirrored/1"
+            },
+            {
+                "model": "granite/mirrored/2"
+            },
+            {
+                "model": "granite/mirrored/3"
+            },
+            {
+                "model": "granite/mirrored/4"
+            },
+            {
+                "model": "granite/mirrored/5"
+            },
+            {
+                "model": "granite/mirrored/6"
+            },
+            {
+                "model": "granite/mirrored/7"
+            },
+            {
+                "model": "granite/mirrored/8"
+            },
+            {
+                "model": "granite/mirrored/9"
+            },
+            {
+                "model": "granite/mirrored/10"
+            },
+            {
+                "model": "granite/mirrored/11"
+            },
+            {
+                "model": "granite/mirrored/12"
+            },
+            {
+                "model": "granite/mirrored/13"
+            },
+            {
+                "model": "granite/mirrored/14"
+            },
+            {
+                "model": "granite/mirrored/15"
+            },
+            {
+                "model": "granite/mirrored/default",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/0",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/1",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/2",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/3",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/4",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/5",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/6",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/7",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/8",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/9",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/10",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/11",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/12",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/13",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/14",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/15",
+                "y": 90
+            },
+            {
+                "model": "granite/mirrored/default",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/0",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/1",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/2",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/3",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/4",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/5",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/6",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/7",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/8",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/9",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/10",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/11",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/12",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/13",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/14",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/15",
+                "y": 180
+            },
+            {
+                "model": "granite/mirrored/default",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/0",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/1",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/2",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/3",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/4",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/5",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/6",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/7",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/8",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/9",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/10",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/11",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/12",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/13",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/14",
+                "y": 270
+            },
+            {
+                "model": "granite/mirrored/15",
                 "y": 270
             }
         ]
