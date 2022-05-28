@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_gate_closed",
+    "textures": {
+        "texture": "variated/dark_oak_planks/mirrored/0"
+    }
+}

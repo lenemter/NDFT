@@ -5,19 +5,19 @@
                 "model": "half_slab_spruce"
             },
             {
-                "model": "spruce/slab/bottom/0"
+                "model": "spruce/normal/slab/bottom/0"
             },
             {
-                "model": "spruce/slab/bottom/1"
+                "model": "spruce/normal/slab/bottom/1"
             },
             {
-                "model": "spruce/slab/bottom/2"
+                "model": "spruce/normal/slab/bottom/2"
             },
             {
-                "model": "spruce/slab/bottom/3"
+                "model": "spruce/normal/slab/bottom/3"
             },
             {
-                "model": "spruce/slab/bottom/4"
+                "model": "spruce/normal/slab/bottom/4"
             }
         ],
         "half=top": [
@@ -25,19 +25,19 @@
                 "model": "upper_slab_spruce"
             },
             {
-                "model": "spruce/slab/top/0"
+                "model": "spruce/normal/slab/top/0"
             },
             {
-                "model": "spruce/slab/top/1"
+                "model": "spruce/normal/slab/top/1"
             },
             {
-                "model": "spruce/slab/top/2"
+                "model": "spruce/normal/slab/top/2"
             },
             {
-                "model": "spruce/slab/top/3"
+                "model": "spruce/normal/slab/top/3"
             },
             {
-                "model": "spruce/slab/top/4"
+                "model": "spruce/normal/slab/top/4"
             }
         ]
     }

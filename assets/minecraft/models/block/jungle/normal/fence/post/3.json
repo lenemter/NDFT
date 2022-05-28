@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "variated/jungle_planks/normal/3"
+    }
+}

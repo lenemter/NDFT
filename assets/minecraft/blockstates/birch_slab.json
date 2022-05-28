@@ -5,19 +5,19 @@
                 "model": "half_slab_birch"
             },
             {
-                "model": "birch/slab/bottom/0"
+                "model": "birch/normal/slab/bottom/0"
             },
             {
-                "model": "birch/slab/bottom/1"
+                "model": "birch/normal/slab/bottom/1"
             },
             {
-                "model": "birch/slab/bottom/2"
+                "model": "birch/normal/slab/bottom/2"
             },
             {
-                "model": "birch/slab/bottom/3"
+                "model": "birch/normal/slab/bottom/3"
             },
             {
-                "model": "birch/slab/bottom/4"
+                "model": "birch/normal/slab/bottom/4"
             }
         ],
         "half=top": [
@@ -25,19 +25,19 @@
                 "model": "upper_slab_birch"
             },
             {
-                "model": "birch/slab/top/0"
+                "model": "birch/normal/slab/top/0"
             },
             {
-                "model": "birch/slab/top/1"
+                "model": "birch/normal/slab/top/1"
             },
             {
-                "model": "birch/slab/top/2"
+                "model": "birch/normal/slab/top/2"
             },
             {
-                "model": "birch/slab/top/3"
+                "model": "birch/normal/slab/top/3"
             },
             {
-                "model": "birch/slab/top/4"
+                "model": "birch/normal/slab/top/4"
             }
         ]
     }

@@ -5,19 +5,19 @@
                 "model": "acacia_fence_gate_closed"
             },
             {
-                "model": "acacia/gate/closed/0"
+                "model": "acacia/normal/gate/closed/0"
             },
             {
-                "model": "acacia/gate/closed/1"
+                "model": "acacia/normal/gate/closed/1"
             },
             {
-                "model": "acacia/gate/closed/2"
+                "model": "acacia/normal/gate/closed/2"
             },
             {
-                "model": "acacia/gate/closed/3"
+                "model": "acacia/normal/gate/closed/3"
             },
             {
-                "model": "acacia/gate/closed/4"
+                "model": "acacia/normal/gate/closed/4"
             }
         ],
         "facing=west,in_wall=false,open=false": [
@@ -27,27 +27,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/0",
+                "model": "acacia/normal/gate/closed/0",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/1",
+                "model": "acacia/normal/gate/closed/1",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/2",
+                "model": "acacia/normal/gate/closed/2",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/3",
+                "model": "acacia/normal/gate/closed/3",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/4",
+                "model": "acacia/normal/gate/closed/4",
                 "y": 90,
                 "uvlock": true
             }
@@ -59,27 +59,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/0",
+                "model": "acacia/normal/gate/closed/0",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/1",
+                "model": "acacia/normal/gate/closed/1",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/2",
+                "model": "acacia/normal/gate/closed/2",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/3",
+                "model": "acacia/normal/gate/closed/3",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/4",
+                "model": "acacia/normal/gate/closed/4",
                 "y": 180,
                 "uvlock": true
             }
@@ -91,27 +91,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/0",
+                "model": "acacia/normal/gate/closed/0",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/1",
+                "model": "acacia/normal/gate/closed/1",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/2",
+                "model": "acacia/normal/gate/closed/2",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/3",
+                "model": "acacia/normal/gate/closed/3",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/4",
+                "model": "acacia/normal/gate/closed/4",
                 "y": 270,
                 "uvlock": true
             }
@@ -121,19 +121,19 @@
                 "model": "acacia_fence_gate_open"
             },
             {
-                "model": "acacia/gate/open/0"
+                "model": "acacia/normal/gate/open/0"
             },
             {
-                "model": "acacia/gate/open/1"
+                "model": "acacia/normal/gate/open/1"
             },
             {
-                "model": "acacia/gate/open/2"
+                "model": "acacia/normal/gate/open/2"
             },
             {
-                "model": "acacia/gate/open/3"
+                "model": "acacia/normal/gate/open/3"
             },
             {
-                "model": "acacia/gate/open/4"
+                "model": "acacia/normal/gate/open/4"
             }
         ],
         "facing=west,in_wall=false,open=true": [
@@ -143,27 +143,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/0",
+                "model": "acacia/normal/gate/open/0",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/1",
+                "model": "acacia/normal/gate/open/1",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/2",
+                "model": "acacia/normal/gate/open/2",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/3",
+                "model": "acacia/normal/gate/open/3",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/4",
+                "model": "acacia/normal/gate/open/4",
                 "y": 90,
                 "uvlock": true
             }
@@ -175,27 +175,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/0",
+                "model": "acacia/normal/gate/open/0",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/1",
+                "model": "acacia/normal/gate/open/1",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/2",
+                "model": "acacia/normal/gate/open/2",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/3",
+                "model": "acacia/normal/gate/open/3",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/4",
+                "model": "acacia/normal/gate/open/4",
                 "y": 180,
                 "uvlock": true
             }
@@ -207,27 +207,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/0",
+                "model": "acacia/normal/gate/open/0",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/1",
+                "model": "acacia/normal/gate/open/1",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/2",
+                "model": "acacia/normal/gate/open/2",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/3",
+                "model": "acacia/normal/gate/open/3",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/4",
+                "model": "acacia/normal/gate/open/4",
                 "y": 270,
                 "uvlock": true
             }
@@ -237,19 +237,19 @@
                 "model": "acacia_fence_gate_closed"
             },
             {
-                "model": "acacia/gate/closed/0"
+                "model": "acacia/normal/gate/closed/0"
             },
             {
-                "model": "acacia/gate/closed/1"
+                "model": "acacia/normal/gate/closed/1"
             },
             {
-                "model": "acacia/gate/closed/2"
+                "model": "acacia/normal/gate/closed/2"
             },
             {
-                "model": "acacia/gate/closed/3"
+                "model": "acacia/normal/gate/closed/3"
             },
             {
-                "model": "acacia/gate/closed/4"
+                "model": "acacia/normal/gate/closed/4"
             }
         ],
         "facing=west,in_wall=true,open=false": [
@@ -259,27 +259,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/0",
+                "model": "acacia/normal/gate/closed/0",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/1",
+                "model": "acacia/normal/gate/closed/1",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/2",
+                "model": "acacia/normal/gate/closed/2",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/3",
+                "model": "acacia/normal/gate/closed/3",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/4",
+                "model": "acacia/normal/gate/closed/4",
                 "y": 90,
                 "uvlock": true
             }
@@ -291,27 +291,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/0",
+                "model": "acacia/normal/gate/closed/0",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/1",
+                "model": "acacia/normal/gate/closed/1",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/2",
+                "model": "acacia/normal/gate/closed/2",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/3",
+                "model": "acacia/normal/gate/closed/3",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/4",
+                "model": "acacia/normal/gate/closed/4",
                 "y": 180,
                 "uvlock": true
             }
@@ -323,27 +323,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/0",
+                "model": "acacia/normal/gate/closed/0",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/1",
+                "model": "acacia/normal/gate/closed/1",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/2",
+                "model": "acacia/normal/gate/closed/2",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/3",
+                "model": "acacia/normal/gate/closed/3",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/closed/4",
+                "model": "acacia/normal/gate/closed/4",
                 "y": 270,
                 "uvlock": true
             }
@@ -353,19 +353,19 @@
                 "model": "acacia_fence_gate_open"
             },
             {
-                "model": "acacia/gate/open/0"
+                "model": "acacia/normal/gate/open/0"
             },
             {
-                "model": "acacia/gate/open/1"
+                "model": "acacia/normal/gate/open/1"
             },
             {
-                "model": "acacia/gate/open/2"
+                "model": "acacia/normal/gate/open/2"
             },
             {
-                "model": "acacia/gate/open/3"
+                "model": "acacia/normal/gate/open/3"
             },
             {
-                "model": "acacia/gate/open/4"
+                "model": "acacia/normal/gate/open/4"
             }
         ],
         "facing=west,in_wall=true,open=true": [
@@ -375,27 +375,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/0",
+                "model": "acacia/normal/gate/open/0",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/1",
+                "model": "acacia/normal/gate/open/1",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/2",
+                "model": "acacia/normal/gate/open/2",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/3",
+                "model": "acacia/normal/gate/open/3",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/4",
+                "model": "acacia/normal/gate/open/4",
                 "y": 90,
                 "uvlock": true
             }
@@ -407,27 +407,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/0",
+                "model": "acacia/normal/gate/open/0",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/1",
+                "model": "acacia/normal/gate/open/1",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/2",
+                "model": "acacia/normal/gate/open/2",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/3",
+                "model": "acacia/normal/gate/open/3",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/4",
+                "model": "acacia/normal/gate/open/4",
                 "y": 180,
                 "uvlock": true
             }
@@ -439,27 +439,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/0",
+                "model": "acacia/normal/gate/open/0",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/1",
+                "model": "acacia/normal/gate/open/1",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/2",
+                "model": "acacia/normal/gate/open/2",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/3",
+                "model": "acacia/normal/gate/open/3",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/gate/open/4",
+                "model": "acacia/normal/gate/open/4",
                 "y": 270,
                 "uvlock": true
             }

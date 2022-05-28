@@ -5,19 +5,19 @@
                 "model": "acacia_planks"
             },
             {
-                "model": "acacia/planks/0"
+                "model": "acacia/normal/planks/0"
             },
             {
-                "model": "acacia/planks/1"
+                "model": "acacia/normal/planks/1"
             },
             {
-                "model": "acacia/planks/2"
+                "model": "acacia/normal/planks/2"
             },
             {
-                "model": "acacia/planks/3"
+                "model": "acacia/normal/planks/3"
             },
             {
-                "model": "acacia/planks/4"
+                "model": "acacia/normal/planks/4"
             }
         ]
     }

@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "variated/dark_oak_planks/normal/4"
+    }
+}

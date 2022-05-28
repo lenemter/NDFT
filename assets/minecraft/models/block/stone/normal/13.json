@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "variated/stone/13"
+        "all": "variated/stone/normal/13"
     }
 }

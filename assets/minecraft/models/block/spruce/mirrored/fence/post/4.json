@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "variated/spruce_planks/mirrored/4"
+    }
+}

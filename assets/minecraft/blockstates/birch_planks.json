@@ -5,19 +5,19 @@
                 "model": "birch_planks"
             },
             {
-                "model": "birch/planks/0"
+                "model": "birch/normal/planks/0"
             },
             {
-                "model": "birch/planks/1"
+                "model": "birch/normal/planks/1"
             },
             {
-                "model": "birch/planks/2"
+                "model": "birch/normal/planks/2"
             },
             {
-                "model": "birch/planks/3"
+                "model": "birch/normal/planks/3"
             },
             {
-                "model": "birch/planks/4"
+                "model": "birch/normal/planks/4"
             }
         ]
     }

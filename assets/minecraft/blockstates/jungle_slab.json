@@ -5,19 +5,19 @@
                 "model": "half_slab_jungle"
             },
             {
-                "model": "jungle/slab/bottom/0"
+                "model": "jungle/normal/slab/bottom/0"
             },
             {
-                "model": "jungle/slab/bottom/1"
+                "model": "jungle/normal/slab/bottom/1"
             },
             {
-                "model": "jungle/slab/bottom/2"
+                "model": "jungle/normal/slab/bottom/2"
             },
             {
-                "model": "jungle/slab/bottom/3"
+                "model": "jungle/normal/slab/bottom/3"
             },
             {
-                "model": "jungle/slab/bottom/4"
+                "model": "jungle/normal/slab/bottom/4"
             }
         ],
         "half=top": [
@@ -25,19 +25,19 @@
                 "model": "upper_slab_jungle"
             },
             {
-                "model": "jungle/slab/top/0"
+                "model": "jungle/normal/slab/top/0"
             },
             {
-                "model": "jungle/slab/top/1"
+                "model": "jungle/normal/slab/top/1"
             },
             {
-                "model": "jungle/slab/top/2"
+                "model": "jungle/normal/slab/top/2"
             },
             {
-                "model": "jungle/slab/top/3"
+                "model": "jungle/normal/slab/top/3"
             },
             {
-                "model": "jungle/slab/top/4"
+                "model": "jungle/normal/slab/top/4"
             }
         ]
     }

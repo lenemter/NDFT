@@ -5,19 +5,19 @@
                 "model": "half_slab_acacia"
             },
             {
-                "model": "acacia/slab/bottom/0"
+                "model": "acacia/normal/slab/bottom/0"
             },
             {
-                "model": "acacia/slab/bottom/1"
+                "model": "acacia/normal/slab/bottom/1"
             },
             {
-                "model": "acacia/slab/bottom/2"
+                "model": "acacia/normal/slab/bottom/2"
             },
             {
-                "model": "acacia/slab/bottom/3"
+                "model": "acacia/normal/slab/bottom/3"
             },
             {
-                "model": "acacia/slab/bottom/4"
+                "model": "acacia/normal/slab/bottom/4"
             }
         ],
         "half=top": [
@@ -25,19 +25,19 @@
                 "model": "upper_slab_acacia"
             },
             {
-                "model": "acacia/slab/top/0"
+                "model": "acacia/normal/slab/top/0"
             },
             {
-                "model": "acacia/slab/top/1"
+                "model": "acacia/normal/slab/top/1"
             },
             {
-                "model": "acacia/slab/top/2"
+                "model": "acacia/normal/slab/top/2"
             },
             {
-                "model": "acacia/slab/top/3"
+                "model": "acacia/normal/slab/top/3"
             },
             {
-                "model": "acacia/slab/top/4"
+                "model": "acacia/normal/slab/top/4"
             }
         ]
     }

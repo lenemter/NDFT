@@ -5,19 +5,19 @@
                 "model": "jungle_planks"
             },
             {
-                "model": "jungle/planks/0"
+                "model": "jungle/normal/planks/0"
             },
             {
-                "model": "jungle/planks/1"
+                "model": "jungle/normal/planks/1"
             },
             {
-                "model": "jungle/planks/2"
+                "model": "jungle/normal/planks/2"
             },
             {
-                "model": "jungle/planks/3"
+                "model": "jungle/normal/planks/3"
             },
             {
-                "model": "jungle/planks/4"
+                "model": "jungle/normal/planks/4"
             }
         ]
     }

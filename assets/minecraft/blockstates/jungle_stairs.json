@@ -5,19 +5,19 @@
 				"model": "jungle_stairs"
 			},
 			{
-				"model": "jungle/stairs/straight/0"
+				"model": "jungle/normal/stairs/straight/0"
 			},
 			{
-				"model": "jungle/stairs/straight/1"
+				"model": "jungle/normal/stairs/straight/1"
 			},
 			{
-				"model": "jungle/stairs/straight/2"
+				"model": "jungle/normal/stairs/straight/2"
 			},
 			{
-				"model": "jungle/stairs/straight/3"
+				"model": "jungle/normal/stairs/straight/3"
 			},
 			{
-				"model": "jungle/stairs/straight/4"
+				"model": "jungle/normal/stairs/straight/4"
 			}
 		],
 		"facing=west,half=bottom,shape=straight": [
@@ -27,27 +27,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/0",
+				"model": "jungle/normal/stairs/straight/0",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/1",
+				"model": "jungle/normal/stairs/straight/1",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/2",
+				"model": "jungle/normal/stairs/straight/2",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/3",
+				"model": "jungle/normal/stairs/straight/3",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/4",
+				"model": "jungle/normal/stairs/straight/4",
 				"y": 180,
 				"uvlock": true
 			}
@@ -59,27 +59,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/0",
+				"model": "jungle/normal/stairs/straight/0",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/1",
+				"model": "jungle/normal/stairs/straight/1",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/2",
+				"model": "jungle/normal/stairs/straight/2",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/3",
+				"model": "jungle/normal/stairs/straight/3",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/4",
+				"model": "jungle/normal/stairs/straight/4",
 				"y": 90,
 				"uvlock": true
 			}
@@ -91,27 +91,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/0",
+				"model": "jungle/normal/stairs/straight/0",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/1",
+				"model": "jungle/normal/stairs/straight/1",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/2",
+				"model": "jungle/normal/stairs/straight/2",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/3",
+				"model": "jungle/normal/stairs/straight/3",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/4",
+				"model": "jungle/normal/stairs/straight/4",
 				"y": 270,
 				"uvlock": true
 			}
@@ -121,19 +121,19 @@
 				"model": "jungle_outer_stairs"
 			},
 			{
-				"model": "jungle/stairs/outer/0"
+				"model": "jungle/normal/stairs/outer/0"
 			},
 			{
-				"model": "jungle/stairs/outer/1"
+				"model": "jungle/normal/stairs/outer/1"
 			},
 			{
-				"model": "jungle/stairs/outer/2"
+				"model": "jungle/normal/stairs/outer/2"
 			},
 			{
-				"model": "jungle/stairs/outer/3"
+				"model": "jungle/normal/stairs/outer/3"
 			},
 			{
-				"model": "jungle/stairs/outer/4"
+				"model": "jungle/normal/stairs/outer/4"
 			}
 		],
 		"facing=west,half=bottom,shape=outer_right": [
@@ -143,27 +143,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 180,
 				"uvlock": true
 			}
@@ -175,27 +175,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 90,
 				"uvlock": true
 			}
@@ -207,27 +207,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 270,
 				"uvlock": true
 			}
@@ -239,27 +239,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 270,
 				"uvlock": true
 			}
@@ -271,27 +271,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 90,
 				"uvlock": true
 			}
@@ -301,19 +301,19 @@
 				"model": "jungle_outer_stairs"
 			},
 			{
-				"model": "jungle/stairs/outer/0"
+				"model": "jungle/normal/stairs/outer/0"
 			},
 			{
-				"model": "jungle/stairs/outer/1"
+				"model": "jungle/normal/stairs/outer/1"
 			},
 			{
-				"model": "jungle/stairs/outer/2"
+				"model": "jungle/normal/stairs/outer/2"
 			},
 			{
-				"model": "jungle/stairs/outer/3"
+				"model": "jungle/normal/stairs/outer/3"
 			},
 			{
-				"model": "jungle/stairs/outer/4"
+				"model": "jungle/normal/stairs/outer/4"
 			}
 		],
 		"facing=north,half=bottom,shape=outer_left": [
@@ -323,27 +323,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 180,
 				"uvlock": true
 			}
@@ -353,19 +353,19 @@
 				"model": "jungle_inner_stairs"
 			},
 			{
-				"model": "jungle/stairs/inner/0"
+				"model": "jungle/normal/stairs/inner/0"
 			},
 			{
-				"model": "jungle/stairs/inner/1"
+				"model": "jungle/normal/stairs/inner/1"
 			},
 			{
-				"model": "jungle/stairs/inner/2"
+				"model": "jungle/normal/stairs/inner/2"
 			},
 			{
-				"model": "jungle/stairs/inner/3"
+				"model": "jungle/normal/stairs/inner/3"
 			},
 			{
-				"model": "jungle/stairs/inner/4"
+				"model": "jungle/normal/stairs/inner/4"
 			}
 		],
 		"facing=west,half=bottom,shape=inner_right": [
@@ -375,27 +375,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 180,
 				"uvlock": true
 			}
@@ -407,27 +407,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 90,
 				"uvlock": true
 			}
@@ -439,27 +439,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 270,
 				"uvlock": true
 			}
@@ -471,27 +471,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 270,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 270,
 				"uvlock": true
 			}
@@ -503,27 +503,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 90,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 90,
 				"uvlock": true
 			}
@@ -533,19 +533,19 @@
 				"model": "jungle_inner_stairs"
 			},
 			{
-				"model": "jungle/stairs/inner/0"
+				"model": "jungle/normal/stairs/inner/0"
 			},
 			{
-				"model": "jungle/stairs/inner/1"
+				"model": "jungle/normal/stairs/inner/1"
 			},
 			{
-				"model": "jungle/stairs/inner/2"
+				"model": "jungle/normal/stairs/inner/2"
 			},
 			{
-				"model": "jungle/stairs/inner/3"
+				"model": "jungle/normal/stairs/inner/3"
 			},
 			{
-				"model": "jungle/stairs/inner/4"
+				"model": "jungle/normal/stairs/inner/4"
 			}
 		],
 		"facing=north,half=bottom,shape=inner_left": [
@@ -555,27 +555,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 180,
 				"uvlock": true
 			}
@@ -587,27 +587,27 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/0",
+				"model": "jungle/normal/stairs/straight/0",
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/1",
+				"model": "jungle/normal/stairs/straight/1",
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/2",
+				"model": "jungle/normal/stairs/straight/2",
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/3",
+				"model": "jungle/normal/stairs/straight/3",
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/straight/4",
+				"model": "jungle/normal/stairs/straight/4",
 				"x": 180,
 				"uvlock": true
 			}
@@ -620,31 +620,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/0",
+				"model": "jungle/normal/stairs/straight/0",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/1",
+				"model": "jungle/normal/stairs/straight/1",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/2",
+				"model": "jungle/normal/stairs/straight/2",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/3",
+				"model": "jungle/normal/stairs/straight/3",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/4",
+				"model": "jungle/normal/stairs/straight/4",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
@@ -658,31 +658,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/0",
+				"model": "jungle/normal/stairs/straight/0",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/1",
+				"model": "jungle/normal/stairs/straight/1",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/2",
+				"model": "jungle/normal/stairs/straight/2",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/3",
+				"model": "jungle/normal/stairs/straight/3",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/4",
+				"model": "jungle/normal/stairs/straight/4",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
@@ -696,31 +696,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/0",
+				"model": "jungle/normal/stairs/straight/0",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/1",
+				"model": "jungle/normal/stairs/straight/1",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/2",
+				"model": "jungle/normal/stairs/straight/2",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/3",
+				"model": "jungle/normal/stairs/straight/3",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/straight/4",
+				"model": "jungle/normal/stairs/straight/4",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
@@ -733,27 +733,27 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"uvlock": true,
 				"x": 180
 			}
@@ -766,31 +766,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
@@ -804,31 +804,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
@@ -842,31 +842,31 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
@@ -880,31 +880,31 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
@@ -918,31 +918,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
@@ -956,31 +956,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
@@ -993,27 +993,27 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/0",
+				"model": "jungle/normal/stairs/outer/0",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/1",
+				"model": "jungle/normal/stairs/outer/1",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/2",
+				"model": "jungle/normal/stairs/outer/2",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/3",
+				"model": "jungle/normal/stairs/outer/3",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/outer/4",
+				"model": "jungle/normal/stairs/outer/4",
 				"uvlock": true,
 				"x": 180
 			}
@@ -1025,27 +1025,27 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"uvlock": true,
 				"x": 180
 			}
@@ -1058,31 +1058,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
@@ -1096,31 +1096,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 90,
 				"uvlock": true,
 				"x": 180
@@ -1134,31 +1134,31 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 270,
 				"x": 180,
 				"uvlock": true
@@ -1172,31 +1172,31 @@
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 90,
 				"x": 180,
 				"uvlock": true
@@ -1210,31 +1210,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 270,
 				"uvlock": true,
 				"x": 180
@@ -1248,31 +1248,31 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"y": 180,
 				"uvlock": true,
 				"x": 180
@@ -1285,27 +1285,27 @@
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/0",
+				"model": "jungle/normal/stairs/inner/0",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/1",
+				"model": "jungle/normal/stairs/inner/1",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/2",
+				"model": "jungle/normal/stairs/inner/2",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/3",
+				"model": "jungle/normal/stairs/inner/3",
 				"uvlock": true,
 				"x": 180
 			},
 			{
-				"model": "jungle/stairs/inner/4",
+				"model": "jungle/normal/stairs/inner/4",
 				"uvlock": true,
 				"x": 180
 			}

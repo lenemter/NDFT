@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "top": "variated/birch_planks/mirrored/1",
+        "side": "variated/birch_planks/mirrored/1",
+        "bottom": "variated/birch_planks/mirrored/1"
+    }
+}

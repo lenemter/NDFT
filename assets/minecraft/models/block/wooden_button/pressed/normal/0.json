@@ -1,6 +1,6 @@
 {
     "parent": "block/button_pressed",
     "textures": {
-        "texture": "variated/oak_planks/0"
+        "texture": "variated/oak_planks/normal/0"
     }
 }

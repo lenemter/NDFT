@@ -5,19 +5,19 @@
                 "model": "half_slab_oak"
             },
             {
-                "model": "oak/slab/bottom/0"
+                "model": "oak/normal/slab/bottom/0"
             },
             {
-                "model": "oak/slab/bottom/1"
+                "model": "oak/normal/slab/bottom/1"
             },
             {
-                "model": "oak/slab/bottom/2"
+                "model": "oak/normal/slab/bottom/2"
             },
             {
-                "model": "oak/slab/bottom/3"
+                "model": "oak/normal/slab/bottom/3"
             },
             {
-                "model": "oak/slab/bottom/4"
+                "model": "oak/normal/slab/bottom/4"
             }
         ],
         "half=top": [
@@ -25,19 +25,19 @@
                 "model": "upper_slab_oak"
             },
             {
-                "model": "oak/slab/top/0"
+                "model": "oak/normal/slab/top/0"
             },
             {
-                "model": "oak/slab/top/1"
+                "model": "oak/normal/slab/top/1"
             },
             {
-                "model": "oak/slab/top/2"
+                "model": "oak/normal/slab/top/2"
             },
             {
-                "model": "oak/slab/top/3"
+                "model": "oak/normal/slab/top/3"
             },
             {
-                "model": "oak/slab/top/4"
+                "model": "oak/normal/slab/top/4"
             }
         ]
     }

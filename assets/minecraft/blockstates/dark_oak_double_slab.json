@@ -5,19 +5,19 @@
                 "model": "dark_oak_planks"
             },
             {
-                "model": "dark_oak/planks/0"
+                "model": "dark_oak/normal/planks/0"
             },
             {
-                "model": "dark_oak/planks/1"
+                "model": "dark_oak/normal/planks/1"
             },
             {
-                "model": "dark_oak/planks/2"
+                "model": "dark_oak/normal/planks/2"
             },
             {
-                "model": "dark_oak/planks/3"
+                "model": "dark_oak/normal/planks/3"
             },
             {
-                "model": "dark_oak/planks/4"
+                "model": "dark_oak/normal/planks/4"
             }
         ]
     }

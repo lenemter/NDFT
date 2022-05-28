@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_ns",
+    "textures": {
+        "texture": "variated/oak_planks/mirrored/0"
+    }
+}

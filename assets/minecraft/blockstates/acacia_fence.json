@@ -5,19 +5,19 @@
                 "model": "acacia_fence_post"
             },
             {
-                "model": "acacia/fence/post/0"
+                "model": "acacia/normal/fence/post/0"
             },
             {
-                "model": "acacia/fence/post/1"
+                "model": "acacia/normal/fence/post/1"
             },
             {
-                "model": "acacia/fence/post/2"
+                "model": "acacia/normal/fence/post/2"
             },
             {
-                "model": "acacia/fence/post/3"
+                "model": "acacia/normal/fence/post/3"
             },
             {
-                "model": "acacia/fence/post/4"
+                "model": "acacia/normal/fence/post/4"
             }
         ],
         "east=false,north=true,south=false,west=false": [
@@ -26,23 +26,23 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/0",
+                "model": "acacia/normal/fence/n/0",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/1",
+                "model": "acacia/normal/fence/n/1",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/2",
+                "model": "acacia/normal/fence/n/2",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/3",
+                "model": "acacia/normal/fence/n/3",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/4",
+                "model": "acacia/normal/fence/n/4",
                 "uvlock": true
             }
         ],
@@ -53,27 +53,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/0",
+                "model": "acacia/normal/fence/n/0",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/1",
+                "model": "acacia/normal/fence/n/1",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/2",
+                "model": "acacia/normal/fence/n/2",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/3",
+                "model": "acacia/normal/fence/n/3",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/4",
+                "model": "acacia/normal/fence/n/4",
                 "y": 90,
                 "uvlock": true
             }
@@ -85,27 +85,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/0",
+                "model": "acacia/normal/fence/n/0",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/1",
+                "model": "acacia/normal/fence/n/1",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/2",
+                "model": "acacia/normal/fence/n/2",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/3",
+                "model": "acacia/normal/fence/n/3",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/4",
+                "model": "acacia/normal/fence/n/4",
                 "y": 180,
                 "uvlock": true
             }
@@ -117,27 +117,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/0",
+                "model": "acacia/normal/fence/n/0",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/1",
+                "model": "acacia/normal/fence/n/1",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/2",
+                "model": "acacia/normal/fence/n/2",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/3",
+                "model": "acacia/normal/fence/n/3",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/n/4",
+                "model": "acacia/normal/fence/n/4",
                 "y": 270,
                 "uvlock": true
             }
@@ -148,23 +148,23 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/0",
+                "model": "acacia/normal/fence/ne/0",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/1",
+                "model": "acacia/normal/fence/ne/1",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/2",
+                "model": "acacia/normal/fence/ne/2",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/3",
+                "model": "acacia/normal/fence/ne/3",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/4",
+                "model": "acacia/normal/fence/ne/4",
                 "uvlock": true
             }
         ],
@@ -175,27 +175,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/0",
+                "model": "acacia/normal/fence/ne/0",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/1",
+                "model": "acacia/normal/fence/ne/1",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/2",
+                "model": "acacia/normal/fence/ne/2",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/3",
+                "model": "acacia/normal/fence/ne/3",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/4",
+                "model": "acacia/normal/fence/ne/4",
                 "y": 90,
                 "uvlock": true
             }
@@ -207,27 +207,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/0",
+                "model": "acacia/normal/fence/ne/0",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/1",
+                "model": "acacia/normal/fence/ne/1",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/2",
+                "model": "acacia/normal/fence/ne/2",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/3",
+                "model": "acacia/normal/fence/ne/3",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/4",
+                "model": "acacia/normal/fence/ne/4",
                 "y": 180,
                 "uvlock": true
             }
@@ -239,27 +239,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/0",
+                "model": "acacia/normal/fence/ne/0",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/1",
+                "model": "acacia/normal/fence/ne/1",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/2",
+                "model": "acacia/normal/fence/ne/2",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/3",
+                "model": "acacia/normal/fence/ne/3",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ne/4",
+                "model": "acacia/normal/fence/ne/4",
                 "y": 270,
                 "uvlock": true
             }
@@ -270,23 +270,23 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/0",
+                "model": "acacia/normal/fence/ns/0",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/1",
+                "model": "acacia/normal/fence/ns/1",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/2",
+                "model": "acacia/normal/fence/ns/2",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/3",
+                "model": "acacia/normal/fence/ns/3",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/4",
+                "model": "acacia/normal/fence/ns/4",
                 "uvlock": true
             }
         ],
@@ -297,27 +297,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/0",
+                "model": "acacia/normal/fence/ns/0",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/1",
+                "model": "acacia/normal/fence/ns/1",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/2",
+                "model": "acacia/normal/fence/ns/2",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/3",
+                "model": "acacia/normal/fence/ns/3",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/ns/4",
+                "model": "acacia/normal/fence/ns/4",
                 "y": 90,
                 "uvlock": true
             }
@@ -328,23 +328,23 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/0",
+                "model": "acacia/normal/fence/nse/0",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/1",
+                "model": "acacia/normal/fence/nse/1",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/2",
+                "model": "acacia/normal/fence/nse/2",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/3",
+                "model": "acacia/normal/fence/nse/3",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/4",
+                "model": "acacia/normal/fence/nse/4",
                 "uvlock": true
             }
         ],
@@ -355,27 +355,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/0",
+                "model": "acacia/normal/fence/nse/0",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/1",
+                "model": "acacia/normal/fence/nse/1",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/2",
+                "model": "acacia/normal/fence/nse/2",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/3",
+                "model": "acacia/normal/fence/nse/3",
                 "y": 90,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/4",
+                "model": "acacia/normal/fence/nse/4",
                 "y": 90,
                 "uvlock": true
             }
@@ -387,27 +387,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/0",
+                "model": "acacia/normal/fence/nse/0",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/1",
+                "model": "acacia/normal/fence/nse/1",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/2",
+                "model": "acacia/normal/fence/nse/2",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/3",
+                "model": "acacia/normal/fence/nse/3",
                 "y": 180,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/4",
+                "model": "acacia/normal/fence/nse/4",
                 "y": 180,
                 "uvlock": true
             }
@@ -419,27 +419,27 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/0",
+                "model": "acacia/normal/fence/nse/0",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/1",
+                "model": "acacia/normal/fence/nse/1",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/2",
+                "model": "acacia/normal/fence/nse/2",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/3",
+                "model": "acacia/normal/fence/nse/3",
                 "y": 270,
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nse/4",
+                "model": "acacia/normal/fence/nse/4",
                 "y": 270,
                 "uvlock": true
             }
@@ -450,23 +450,23 @@
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nsew/0",
+                "model": "acacia/normal/fence/nsew/0",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nsew/1",
+                "model": "acacia/normal/fence/nsew/1",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nsew/2",
+                "model": "acacia/normal/fence/nsew/2",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nsew/3",
+                "model": "acacia/normal/fence/nsew/3",
                 "uvlock": true
             },
             {
-                "model": "acacia/fence/nsew/4",
+                "model": "acacia/normal/fence/nsew/4",
                 "uvlock": true
             }
         ]

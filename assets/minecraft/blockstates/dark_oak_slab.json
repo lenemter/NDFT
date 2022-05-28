@@ -5,19 +5,19 @@
                 "model": "half_slab_dark_oak"
             },
             {
-                "model": "dark_oak/slab/bottom/0"
+                "model": "dark_oak/normal/slab/bottom/0"
             },
             {
-                "model": "dark_oak/slab/bottom/1"
+                "model": "dark_oak/normal/slab/bottom/1"
             },
             {
-                "model": "dark_oak/slab/bottom/2"
+                "model": "dark_oak/normal/slab/bottom/2"
             },
             {
-                "model": "dark_oak/slab/bottom/3"
+                "model": "dark_oak/normal/slab/bottom/3"
             },
             {
-                "model": "dark_oak/slab/bottom/4"
+                "model": "dark_oak/normal/slab/bottom/4"
             }
         ],
         "half=top": [
@@ -25,19 +25,19 @@
                 "model": "upper_slab_dark_oak"
             },
             {
-                "model": "dark_oak/slab/top/0"
+                "model": "dark_oak/normal/slab/top/0"
             },
             {
-                "model": "dark_oak/slab/top/1"
+                "model": "dark_oak/normal/slab/top/1"
             },
             {
-                "model": "dark_oak/slab/top/2"
+                "model": "dark_oak/normal/slab/top/2"
             },
             {
-                "model": "dark_oak/slab/top/3"
+                "model": "dark_oak/normal/slab/top/3"
             },
             {
-                "model": "dark_oak/slab/top/4"
+                "model": "dark_oak/normal/slab/top/4"
             }
         ]
     }
