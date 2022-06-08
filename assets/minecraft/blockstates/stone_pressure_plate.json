@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "powered=false": [
+            {
+                "model": "stone_pressure_plate_up"
+            },
+            {
+                "model": "stone_pressure_plate_up",
+                "y": 180
+            }
+        ],
+        "powered=true": [
+            {
+                "model": "stone_pressure_plate_down"
+            },
+            {
+                "model": "stone_pressure_plate_down",
+                "y": 180
+            }
+        ]
+    }
+}
