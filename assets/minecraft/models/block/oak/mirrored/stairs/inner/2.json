@@ -1,8 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "variated/oak_planks/mirrored/2",
-    "top": "variated/oak_planks/mirrored/2",
-    "side": "variated/oak_planks/mirrored/2"
-  }
-}

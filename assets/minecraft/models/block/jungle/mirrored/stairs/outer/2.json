@@ -1,8 +1,0 @@
-{
-  "parent": "block/outer_stairs",
-  "textures": {
-    "bottom": "variated/jungle_planks/mirrored/2",
-    "top": "variated/jungle_planks/mirrored/2",
-    "side": "variated/jungle_planks/mirrored/2"
-  }
-}

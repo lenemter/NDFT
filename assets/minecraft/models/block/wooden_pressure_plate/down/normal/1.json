@@ -1,6 +1,0 @@
-{
-    "parent": "block/pressure_plate_down_pressed",
-    "textures": {
-        "texture": "variated/oak_planks/normal/1"
-    }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "block/outer_stairs",
-  "textures": {
-    "bottom": "variated/oak_planks/mirrored/1",
-    "top": "variated/oak_planks/mirrored/1",
-    "side": "variated/oak_planks/mirrored/1"
-  }
-}
