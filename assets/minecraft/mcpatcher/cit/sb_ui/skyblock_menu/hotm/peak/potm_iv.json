@@ -1,6 +1,6 @@
 {
-        "parent": "builtin/generated",
-    "textures": {
-        "layer0": "./potm_iv"
-    }
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "./potm_iv"
+  }
 }

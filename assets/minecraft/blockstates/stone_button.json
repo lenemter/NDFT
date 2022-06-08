@@ -1,98 +1,98 @@
 {
-    "variants": {
-        "facing=up,powered=false": [
-            {
-                "model": "stone_button"
-            },
-            {
-                "model": "stone_button",
-                "y": 180
-            }
-        ],
-        "facing=down,powered=false": [
-            {
-                "model": "stone_button",
-                "x": 180
-            },
-            {
-                "model": "stone_button",
-                "y": 180,
-                "x": 180
-            }
-        ],
-        "facing=east,powered=false": [
-            {
-                "model": "stone_button",
-                "y": 90,
-                "x": 90
-            }
-        ],
-        "facing=west,powered=false": [
-            {
-                "model": "stone_button",
-                "y": 270,
-                "x": 90
-            }
-        ],
-        "facing=south,powered=false": [
-            {
-                "model": "stone_button",
-                "y": 180,
-                "x": 90
-            }
-        ],
-        "facing=north,powered=false": [
-            {
-                "model": "stone_button",
-                "x": 90
-            }
-        ],
-        "facing=up,powered=true": [
-            {
-                "model": "stone_button_pressed"
-            },
-            {
-                "model": "stone_button_pressed",
-                "y": 180
-            }
-        ],
-        "facing=down,powered=true": [
-            {
-                "model": "stone_button_pressed",
-                "x": 180
-            },
-            {
-                "model": "stone_button_pressed",
-                "y": 180,
-                "x": 180
-            }
-        ],
-        "facing=east,powered=true": [
-            {
-                "model": "stone_button_pressed",
-                "y": 90,
-                "x": 90
-            }
-        ],
-        "facing=west,powered=true": [
-            {
-                "model": "stone_button_pressed",
-                "y": 270,
-                "x": 90
-            }
-        ],
-        "facing=south,powered=true": [
-            {
-                "model": "stone_button_pressed",
-                "y": 180,
-                "x": 90
-            }
-        ],
-        "facing=north,powered=true": [
-            {
-                "model": "stone_button_pressed",
-                "x": 90
-            }
-        ]
-    }
+  "variants": {
+    "facing=up,powered=false": [
+      {
+        "model": "stone_button"
+      },
+      {
+        "model": "stone_button",
+        "y": 180
+      }
+    ],
+    "facing=down,powered=false": [
+      {
+        "model": "stone_button",
+        "x": 180
+      },
+      {
+        "model": "stone_button",
+        "y": 180,
+        "x": 180
+      }
+    ],
+    "facing=east,powered=false": [
+      {
+        "model": "stone_button",
+        "y": 90,
+        "x": 90
+      }
+    ],
+    "facing=west,powered=false": [
+      {
+        "model": "stone_button",
+        "y": 270,
+        "x": 90
+      }
+    ],
+    "facing=south,powered=false": [
+      {
+        "model": "stone_button",
+        "y": 180,
+        "x": 90
+      }
+    ],
+    "facing=north,powered=false": [
+      {
+        "model": "stone_button",
+        "x": 90
+      }
+    ],
+    "facing=up,powered=true": [
+      {
+        "model": "stone_button_pressed"
+      },
+      {
+        "model": "stone_button_pressed",
+        "y": 180
+      }
+    ],
+    "facing=down,powered=true": [
+      {
+        "model": "stone_button_pressed",
+        "x": 180
+      },
+      {
+        "model": "stone_button_pressed",
+        "y": 180,
+        "x": 180
+      }
+    ],
+    "facing=east,powered=true": [
+      {
+        "model": "stone_button_pressed",
+        "y": 90,
+        "x": 90
+      }
+    ],
+    "facing=west,powered=true": [
+      {
+        "model": "stone_button_pressed",
+        "y": 270,
+        "x": 90
+      }
+    ],
+    "facing=south,powered=true": [
+      {
+        "model": "stone_button_pressed",
+        "y": 180,
+        "x": 90
+      }
+    ],
+    "facing=north,powered=true": [
+      {
+        "model": "stone_button_pressed",
+        "x": 90
+      }
+    ]
+  }
 }

@@ -1,6 +1,6 @@
 {
-        "parent": "builtin/generated",
-    "textures": {
-        "layer0": "./island_mngmt"
-    }
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "./island_mngmt"
+  }
 }

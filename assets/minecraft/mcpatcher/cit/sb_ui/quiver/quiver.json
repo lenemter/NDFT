@@ -1,6 +1,6 @@
 {
-        "parent": "builtin/generated",
-    "textures": {
-        "layer0": "mcpatcher/cit/sb_ui/quiver/quiver.png"
-    }
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "mcpatcher/cit/sb_ui/quiver/quiver.png"
+  }
 }

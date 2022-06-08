@@ -1,21 +1,21 @@
 {
-    "variants": {
-        "normal": [
-            {
-                "model": "granite"
-            },
-            {
-                "model": "granite",
-                "y": 90
-            },
-            {
-                "model": "granite",
-                "y": 180
-            },
-            {
-                "model": "granite",
-                "y": 270
-            }
-        ]
-    }
+  "variants": {
+    "normal": [
+      {
+        "model": "granite"
+      },
+      {
+        "model": "granite",
+        "y": 90
+      },
+      {
+        "model": "granite",
+        "y": 180
+      },
+      {
+        "model": "granite",
+        "y": 270
+      }
+    ]
+  }
 }

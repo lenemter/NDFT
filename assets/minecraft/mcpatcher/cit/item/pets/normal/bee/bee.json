@@ -2,7 +2,8 @@
   "textures": {
     "0": "./bee"
   },
-  "elements": [{
+  "elements": [
+    {
       "from": [0, 0, 0],
       "to": [16, 16, 16],
       "faces": {

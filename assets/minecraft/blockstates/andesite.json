@@ -1,13 +1,13 @@
 {
-    "variants": {
-        "normal": [
-            {
-                "model": "andesite"
-            },
-            {
-                "model": "andesite",
-                "y": 180
-            }
-        ]
-    }
+  "variants": {
+    "normal": [
+      {
+        "model": "andesite"
+      },
+      {
+        "model": "andesite",
+        "y": 180
+      }
+    ]
+  }
 }

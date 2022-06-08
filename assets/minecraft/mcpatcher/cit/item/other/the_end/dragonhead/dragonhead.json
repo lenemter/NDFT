@@ -3,10 +3,10 @@
   "ambientocclusion": false,
   "texture_size": [32, 32],
   "textures": {
-    "1": "entity/enderdragon/dragon",
-
+    "1": "entity/enderdragon/dragon"
   },
-  "elements": [{
+  "elements": [
+    {
       "from": [4, 0, 8],
       "to": [12, 8, 16],
       "rotation": {
