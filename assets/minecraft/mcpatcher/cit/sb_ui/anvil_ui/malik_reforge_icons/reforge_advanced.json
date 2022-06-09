@@ -1,6 +1,6 @@
 {
-        "parent": "builtin/generated",
-    "textures": {
-        "layer0": "./reforge_advanced"
-    }
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "./reforge_advanced"
+  }
 }

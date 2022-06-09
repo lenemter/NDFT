@@ -1,6 +1,6 @@
 {
-	"parent": "item/skyblock/pet",
-	"textures": {
-		"0": "./dark_wolf"
-	}
+  "parent": "item/skyblock/pet",
+  "textures": {
+    "0": "./dark_wolf"
+  }
 }

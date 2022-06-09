@@ -1,6 +1,6 @@
 {
-	"parent": "item/skyblock/pet",
-	"textures": {
-		"0": "./golden_monkey"
-	}
+  "parent": "item/skyblock/pet",
+  "textures": {
+    "0": "./golden_monkey"
+  }
 }

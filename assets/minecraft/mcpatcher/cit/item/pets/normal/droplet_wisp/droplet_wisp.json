@@ -1,6 +1,6 @@
 {
-	"parent": "item/skyblock/pet",
-	"textures": {
-		"0": "./droplet_wisp"
-	}
+  "parent": "item/skyblock/pet",
+  "textures": {
+    "0": "./droplet_wisp"
+  }
 }

@@ -1,6 +1,6 @@
 {
-        "parent": "builtin/generated",
-    "textures": {
-        "layer0": "./pick_up"
-    }
+  "parent": "builtin/generated",
+  "textures": {
+    "layer0": "./pick_up"
+  }
 }

@@ -1,6 +1,6 @@
 {
-	"parent": "item/skyblock/pet",
-	"textures": {
-		"0": "./blaze"
-	}
+  "parent": "item/skyblock/pet",
+  "textures": {
+    "0": "./blaze"
+  }
 }

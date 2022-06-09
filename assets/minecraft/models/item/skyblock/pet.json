@@ -1,5 +1,6 @@
 {
-  "elements": [{
+  "elements": [
+    {
       "from": [0, 0, 0],
       "to": [16, 16, 16],
       "faces": {
@@ -62,18 +63,18 @@
   ],
   "gui_light": "front",
   "display": {
-        "thirdperson": {
-            "rotation": [ 0, -45, 180 ],
-            "translation": [ 0, 1, -2.5 ],
-            "scale": [ 0.25, 0.25, 0.25 ]
-        },
-        "firstperson": {
-            "rotation": [ 0, -180, 0 ],
-            "scale": [ 0.55, 0.55, 0.55 ]
-        },
-        "gui": {
-            "rotation": [ 0, 0, 0 ],
-            "scale": [ 0.7, 0.7, 0.7 ]
-        }
+    "thirdperson": {
+      "rotation": [0, -45, 180],
+      "translation": [0, 1, -2.5],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "firstperson": {
+      "rotation": [0, -180, 0],
+      "scale": [0.55, 0.55, 0.55]
+    },
+    "gui": {
+      "rotation": [0, 0, 0],
+      "scale": [0.7, 0.7, 0.7]
     }
+  }
 }

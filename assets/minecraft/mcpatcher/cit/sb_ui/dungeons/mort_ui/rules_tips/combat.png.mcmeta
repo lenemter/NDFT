@@ -1,3 +1,5 @@
-{ "animation": {
-"frametime": 20
-} }
+{
+  "animation": {
+    "frametime": 20
+  }
+}
