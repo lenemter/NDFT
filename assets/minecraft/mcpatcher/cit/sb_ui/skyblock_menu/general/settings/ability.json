@@ -1,6 +1,6 @@
 {
-  "parent": "builtin/generated",
-  "textures": {
-    "layer0": "./ability"
-  }
+        "parent": "builtin/generated",
+    "textures": {
+        "layer0": "./ability"
+    }
 }
