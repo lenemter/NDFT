@@ -4,7 +4,12 @@
       { "model": "granite" },
       { "model": "granite", "y": 90 },
       { "model": "granite", "y": 180 },
-      { "model": "granite", "y": 270 }
+      { "model": "granite", "y": 270 },
+
+      { "model": "granite", "x": 180 },
+      { "model": "granite", "y": 90, "x": 180 },
+      { "model": "granite", "y": 180, "x": 180 },
+      { "model": "granite", "y": 270, "x": 180 }
     ]
   }
 }

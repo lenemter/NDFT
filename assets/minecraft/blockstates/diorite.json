@@ -2,7 +2,10 @@
   "variants": {
     "normal": [
       { "model": "diorite" },
-      { "model": "diorite", "y": 180 }
+      { "model": "diorite", "y": 180 },
+
+      { "model": "diorite", "x": 180 },
+      { "model": "diorite", "y": 180, "x": 180 }
     ]
   }
 }
