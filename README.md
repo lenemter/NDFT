@@ -1,4 +1,4 @@
-# NTFT
+# NDFT
 
 My Minecraft 1.8.9 Resource Pack based on new textures.
 
