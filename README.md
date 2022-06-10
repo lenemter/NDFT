@@ -32,6 +32,7 @@ Utility:
 
 - Sticky Piston Sides
 - Directional Dispencers & Droppers (sides only)
+- Groovy Levers
 
 Unobtrusive:
 
