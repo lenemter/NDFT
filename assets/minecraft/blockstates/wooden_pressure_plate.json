@@ -1,22 +1,12 @@
 {
   "variants": {
     "powered=false": [
-      {
-        "model": "wooden_pressure_plate_up"
-      },
-      {
-        "model": "wooden_pressure_plate_up",
-        "y": 180
-      }
+      { "model": "wooden_pressure_plate_up" },
+      { "model": "wooden_pressure_plate_up", "y": 180 }
     ],
     "powered=true": [
-      {
-        "model": "wooden_pressure_plate_down"
-      },
-      {
-        "model": "wooden_pressure_plate_down",
-        "y": 180
-      }
+      { "model": "wooden_pressure_plate_down" },
+      { "model": "wooden_pressure_plate_down", "y": 180 }
     ]
   }
 }
