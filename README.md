@@ -1,8 +1,9 @@
 # NTFT
----
+
 My Minecraft 1.8.9 Resource Pack based on new textures.
 
 Uses:
+
 - New Default Minecraft Textures
 - Vanila Tweaks
 - FurfSky Reborn
