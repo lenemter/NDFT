@@ -61,11 +61,13 @@ Fixes:
 - Redstone Wire Fix
 - Consistent White Outlines
 - Cactus Bottom Fix
+- Cocoa Beans Top Fix
 - Pixel Consistent Experience Orbs
 - Blaze's Rods Fix
 - Slime Particle Fix
 - Nicer Fast Leaves
 - Don't Eat The Bowl!
 - Hoe Fix
+- Villager Cloak Fix
 - Hopper Bottom Fix
 - Tuexedo Cat Fix
