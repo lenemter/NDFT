@@ -65,6 +65,7 @@ Fixes:
 - Cactus Bottom Fix
 - Cocoa Beans Top Fix
 - Pixel Consistent Experience Orbs
+- Pixel Consistent Beacon Beam
 - Blaze's Rods Fix
 - Slime Particle Fix
 - Nicer Fast Leaves
