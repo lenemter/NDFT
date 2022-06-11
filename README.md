@@ -16,6 +16,7 @@ Aestetic:
 - Cherry Picking
 - Diffrent Stems
 - Red Iron Golem Flowers
+- Bed Icons (red bed only)
 - Splash Bottle o' Enchanting
 
 Terrain:
