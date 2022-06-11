@@ -38,7 +38,6 @@ Utility:
 
 Unobtrusive:
 
-- Unobtrusive Enchantment Glint
 - Lower fire
 - No Pumpkin Overlay
 - Short Swords
