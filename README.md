@@ -62,8 +62,9 @@ Fixes:
 - Redstone Wire Fix
 - Consistent White Outlines
 - Cactus Bottom Fix
-- Consistent Helmets
 - Cocoa Beans Top Fix
+- Consistent Helmets
+- Pixel Consistent Tripwire
 - Pixel Consistent Experience Orbs
 - Pixel Consistent Beacon Beam
 - Blaze's Rods Fix
