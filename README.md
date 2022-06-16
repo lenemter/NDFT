@@ -46,10 +46,6 @@ HUD:
 - 4 Angled Crosshair
 - Ping Color Indicators
 
-GUI:
-
-- Numbered Hotbar
-
 Menu Panoramas:
 
 - Lakeside Sunset
