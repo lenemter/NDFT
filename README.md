@@ -5,9 +5,10 @@ My Minecraft 1.8.9 Resource Pack based on new textures.
 Uses:
 
 - New Default Minecraft Textures
-- Vanila Tweaks
-- FurfSky Reborn
-- xali's Enchanted Books
+- [Vanila Tweaks](https://vanillatweaks.net/picker/resource-packs/)
+- [FurfSky Reborn](https://furfsky.net/)
+- [xali's Enchanted Books](https://www.curseforge.com/minecraft/texture-packs/xalis-enchanted-books)
+- [Small Icons](https://hypixel.net/threads/1-8-9-small-icons-3.3766938/)
 
 ### Ported [Vanila Tweaks](https://vanillatweaks.net/picker/resource-packs/) stuff:
 
